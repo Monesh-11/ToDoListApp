@@ -8,8 +8,7 @@ A simple to-do list app that allows users to add, edit, and delete tasks. Built 
 - Delete task
 - Clean UI using RecyclerView
 
-## 📸 Screenshots
-*(Upload screenshots in a folder and embed them here)*
+
 
 ## 🛠 Tech Stack
 - Java
